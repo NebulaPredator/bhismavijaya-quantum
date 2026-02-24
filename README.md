@@ -1,0 +1,3 @@
+This project is a real-time gesture-controlled 3D voxel construction system built using Three.js and MediaPipe Hands. 
+It uses your webcam feed to track hand movements and detect pinch gestures. When you pinch with your right hand, the system calculates the 3D position of your fingertip, snaps it to a virtual grid, and generates glowing voxel cubes in that position inside a Three.js scene. 
+The interface overlays a futuristic HUD-style UI on top of the live camera feed, creating an augmented reality–like building environment where users can construct structures in mid-air using only hand gestures.
